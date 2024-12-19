@@ -18,5 +18,4 @@ Este é o código-fonte de um portfólio pessoal criado para apresentar o profis
   * Font Awesome para ícones
   * JavaScript (para funcionalidades interativas)
 
-## Iuri Alan
-Desenvolvedor web
+## Iuri Alan - Desenvolvedor web
